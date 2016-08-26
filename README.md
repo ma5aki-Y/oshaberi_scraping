@@ -1,5 +1,5 @@
 # oshaberi_scraping
-上沼恵美子のおしゃべり(http://www.asahi.co.jp//oshaberi/)クッキングのレシピを表示するRubyスクリプト
+上沼恵美子のおしゃべりクッキング (http://www.asahi.co.jp//oshaberi/) のレシピを表示するRubyスクリプト
 
 ## use
 ```bash
